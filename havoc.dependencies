@@ -1,7 +1,7 @@
 [
   {
     "repository": "android_device_xiaomi_sdm439-common",
-    "target_path": "device/xiaomi/sdm439-common",
+    "target_path": "device/xiaomi/sdm439-common"
   },
   {
     "repository": "android_kernel_xiaomi_sdm439",
@@ -9,10 +9,10 @@
   },
   {
     "repository": "android_vendor_xiaomi_olive",
-    "target_path": "vendor/xiaomi/olive",
+    "target_path": "vendor/xiaomi/olive"
   },
   {
     "repository": "android_vendor_xiaomi_sdm439-common",
-    "target_path" : "vendor/xiaomi/sdm439-common",
+    "target_path" : "vendor/xiaomi/sdm439-common"
   }
 ]
